@@ -1,7 +1,7 @@
 # Ansible-WordPress-Local
 Ansible playbook to deploy wordpress on Ubuntu for local development.
 
-I didn't want this to be complex or out of reach to anyone not familiar with ansible so i wanted to keep this playbook in a single file and as 'one liner' as possible.
+I didn't want this to be complex or out of reach to anyone not familiar with ansible so i wanted to keep this playbook in a single file and as user friendly as possible.
 
 For now it is tested on ubuntu 18.04 but may work on other variants.
 
