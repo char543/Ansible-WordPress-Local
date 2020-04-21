@@ -6,7 +6,7 @@ I didn't want this to be complex or out of reach to anyone not familiar with ans
 For now it is tested on ubuntu 18.04 but may work on other variants.
 
 ## What does it do?
-One click deploy WordPress local dev environment
+One click deploy latest WordPress package on Ubuntu for a local development environment.
 
 ### Steps
 
