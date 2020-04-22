@@ -20,7 +20,7 @@ email: your-email@site.com ***# (your email address)***
 domain: yourdomain.com ***# (your site domain)***  
 
 #### 1) Install Ansible with this command
-sudo apt update && sudo apt install software-properties-common && sudo apt install python-apt -y && sudo apt-add-repository --yes --update ppa:ansible/ansible && sudo apt install ansible -y
+`sudo apt update && sudo apt install software-properties-common && sudo apt install python-apt -y && sudo apt-add-repository --yes --update ppa:ansible/ansible && sudo apt install ansible -y`
 
 #### 2) Run playbook
-sudo ansible-playbook local-site.yml
+`sudo ansible-playbook local-site.yml`
